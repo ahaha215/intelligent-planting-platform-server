@@ -22,11 +22,3 @@ mybatis-plus:
       logic-delete-field: isDeleted
       logic-delete-value: 1
       logic-not-delete-value: 0
-
-#aliyun:
-#  oss:
-#    file:
-#      endpoint: oss-cn-beijing.aliyuncs.com
-#      keyid: LTAI5t6TXdzfo3eCmGmEocwA
-#      keysecret: 45p9paHxRbfMvITDBHiuvjvvB4stjO
-#      bucketname: recommend-beautiful-china-bucket
